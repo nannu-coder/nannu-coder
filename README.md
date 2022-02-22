@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+## Nazmul Hasan Nannu
+### Full Stack Web Developer
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1129761617191817216/1590780510/600x200)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
