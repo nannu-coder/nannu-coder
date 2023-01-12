@@ -1,10 +1,10 @@
 ## Nazmul Hasan Nannu
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/314715288_1340880776728211_8069903053263054002_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEq3XM6SmZdvxt0poVJz5lTJirUMOSH0FMmKtQw5IfQU-lz3Ps3_ujqaYj83jPDTPxZutq3JfghE38l_Zp2zHqO&_nc_ohc=mbTmiTMZFtAAX_armZM&_nc_ht=scontent.fdac5-2.fna&oh=00_AfCm2xNxOWRhb3Ot2EkPsb9r-f2h9KWOGXLFkEIuCrfmCw&oe=63C49A67" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Full Stack Web Developer
+### <div align="center">Full Stack  Developer
 I’m Nannu. I’m a professional web designer and developer. I have worked internationally, in-house and on projects for leading brands, agencies, startups and charities. I care deeply about creating useful and beautiful products that help people and make a difference. I like to be involved at different stages of a digital project, from the seed of the idea. Through the design and even the front-end and WordPress build.
 
 </div>  
